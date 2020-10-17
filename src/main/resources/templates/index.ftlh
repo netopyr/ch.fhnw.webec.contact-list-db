@@ -45,7 +45,6 @@
                     </#list>
                 </td>
             </tr>
-            <@listRow "Telefon" "phone" selected.phones![]/>
             <tr>
                 <th>Telefon:</th>
                 <td id="phone-value">
